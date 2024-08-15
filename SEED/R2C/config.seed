@@ -222,3 +222,19 @@ CONFIG_DOCKER_STO_EXT4=y
 ### OTHERS ###
 CONFIG_PACKAGE_kmod-crypto-cmac=y
 CONFIG_PACKAGE_kmod-crypto-ccm=y
+
+
+
+CONFIG_PACKAGE_luci-app-hd-idle=y
+CONFIG_PACKAGE_luci-app-samba4=y
+CONFIG_PACKAGE_block-mount=y
+CONFIG_PACKAGE_mount-utils=y
+
+CONFIG_PACKAGE_usbmuxd=y
+CONFIG_PACKAGE_kmod-usb-net-rndis=y
+CONFIG_PACKAGE_kmod-usb-net-ipheth=y
+CONFIG_PACKAGE_kmod-usb-ohci=y
+CONFIG_PACKAGE_kmod-usb2=y
+CONFIG_PACKAGE_kmod-usb3=y
+CONFIG_PACKAGE_kmod-usb-storage=y
+CONFIG_PACKAGE_kmod-fs-ext4=y
